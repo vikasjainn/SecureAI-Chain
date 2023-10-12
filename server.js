@@ -16,7 +16,7 @@ class Block{
 const fetchData =async ()=>{
     try{
       const listOfBlocks =[];
-      for(let blockNumber=17469523; blockNumber<17469900;blockNumber++){
+      for(let blockNumber=17469523; blockNumber<17469533;blockNumber++){
         // const apiUrl = `https://api.etherscan.io/api?module=block&action=getblockreward&blockno=${blockNumber}&apikey=${apiKey}`
         const apiUrl = `https://api.etherscan.io/api?module=block&action=getblockreward&blockno=${blockNumber}&apikey=${apiKey}`
 
