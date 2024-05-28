@@ -1,6 +1,6 @@
-# Blockchain-AI Integration for Enhanced Data Security
+# Blockchain-AI Integration for Enhanced Data Security.
 
-## Overview
+## Overview.
 
 This GitHub repository contains the implementation of a cutting-edge research project that explores the seamless integration of Blockchain and Artificial Intelligence (AI) to enhance data security and privacy. The project aims to create a secure and privacy-preserving model that allows companies to train AI models using a vast amount of consumer data present on the Blockchain, without revealing the users' identities or compromising data integrity
 
