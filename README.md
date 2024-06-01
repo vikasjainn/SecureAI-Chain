@@ -46,7 +46,7 @@ We welcome contributions from the open-source community to improve and expand th
 
 The "Future Works" section in the research paper outlines several potential directions for further research and development. We encourage researchers and developers to explore these avenues and build upon the foundations established in this project.
 
-## License
+## License.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
