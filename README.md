@@ -1,4 +1,4 @@
-# Blockchain-AI Integration for Enhanced Data Security
+# Blockchain-AI Integration for Enhanced Data Security.
 
 ## Overview.
 
