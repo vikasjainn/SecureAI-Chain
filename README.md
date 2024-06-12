@@ -40,7 +40,7 @@ To run the code and reproduce the results, follow these steps:
    python machine_learning_model.py
    ```
 
-## Contributions and Future Works
+## Contributions and Future Works.
 
 We welcome contributions from the open-source community to improve and expand this research project. If you have ideas for enhancing data privacy, optimizing scalability, or exploring other blockchain technologies, please feel free to fork the repository, make your changes, and submit a pull request.
 
