@@ -16,7 +16,7 @@ This GitHub repository contains the implementation of a cutting-edge research pr
 
 - **Future Works:** The project outlines potential future research directions, incorporating homomorphic encryption, federated learning, multi-blockchain compatibility, scalability optimization, and ethical considerations.
 
-## Getting Started.
+## Getting Started
 
 To run the code and reproduce the results, follow these steps:
 
